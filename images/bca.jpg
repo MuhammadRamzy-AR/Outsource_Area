@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://www.dpi.co.id/neoweb/client-list.php -->
+<html dir="ltr" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+	<meta name="author" content="SemiColonWeb">
+
+	<!-- Stylesheets
+	============================================= -->
+	<link rel="shortcut icon" href="http://www.dpi.co.id/neoweb/templates/dpi/images/favicon-dpi.png">
+	<link href="./bca_files/css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="./bca_files/bootstrap.css" type="text/css">
+	<link rel="stylesheet" href="./bca_files/style.css" type="text/css">
+	<link rel="stylesheet" href="./bca_files/dark.css" type="text/css">
+	<link rel="stylesheet" href="./bca_files/font-icons.css" type="text/css">
+	<link rel="stylesheet" href="./bca_files/animate.css" type="text/css">
+	<link rel="stylesheet" href="./bca_files/magnific-popup.css" type="text/css">
+
+	<link rel="stylesheet" href="./bca_files/responsive.css" type="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script type="text/javascript" src="./bca_files/jquery.js.download"></script>
+	<script type="text/javascript" src="./bca_files/plugins.js.download"></script>
+
+	<!-- Document Title
+	============================================= -->
+	<title>Client List | PT. Dana Purna Investama</title>
+
+<style>
+	#page-title {
+	position: relative;
+	padding: 60px 0;
+	background: url('http://www.dpi.co.id/neoweb/images/banner_news/highlight1.jpg');
+	
+	border-bottom: 1px solid #EEE;
+}
+</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+
+
+<body class="stretched device-lg">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix" style="animation-duration: 1.5s; opacity: 1;">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="sticky-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="http://www.dpi.co.id/neoweb/" class="standard-logo" data-dark-logo="http://www.dpi.co.id/neoweb/templates/dpi/images/logo-dark.png"><img src="./bca_files/logo-dpi.jpg" alt="Logo DPI"></a>
+						<a href="http://www.dpi.co.id/neoweb/" class="retina-logo" data-dark-logo="http://www.dpi.co.id/neoweb/templates/dpi/images/logo-dark@2x.png"><img src="./bca_files/logo-dpi.jpg" alt="Logo DPI"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu" class="sub-title">
+
+						<ul class="sf-js-enabled" style="touch-action: pan-y;">
+							<li style="background-image: url(&quot;images/icons/menu-divider.png&quot;);"><a href="http://www.dpi.co.id/neoweb/"><div>Home</div></a></li>
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#" class="sf-with-ul"><div>About Us</div></a>
+								<ul style="display: none;">
+									
+									<li><a href="http://www.dpi.co.id/neoweb/our-history.php"><div>Our History</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/vision-mission.php"><div>Vision &amp; Mission</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/our-values.php"><div>Our Values</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/our-commitments.php"><div>Our Commitments</div></a></li>
+									
+																		
+								</ul>
+							</li>
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#" class="sf-with-ul"><div>Services</div></a>
+								<ul style="display: none;">
+																<li><a href="http://www.dpi.co.id/neoweb/services.php?category=7"><div>Building Operation Maintenance &amp; Management</div></a></li>
+																<li><a href="http://www.dpi.co.id/neoweb/services.php?category=8"><div>Office Management Services</div></a></li>
+																<li><a href="http://www.dpi.co.id/neoweb/services.php?category=9"><div>Outsourcing</div></a></li>
+																<li><a href="http://www.dpi.co.id/neoweb/services.php?category=10"><div>ATM Cleaning</div></a></li>
+																</ul>
+							</li>
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#" class="sf-with-ul"><div>Organization</div></a>
+								<ul style="display: none;">
+									<li><a href="http://www.dpi.co.id/neoweb/board-of-commisioner.php"><div>Board of Commissioner</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/board-of-directors.php"><div>Board of Directors</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/organizational-structure.php"><div>Organizational Structure</div></a></li>
+								</ul>
+							</li>
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#career.php" class="sf-with-ul"><div>Career</div></a>
+								<ul style="display: none;">
+									<li><a href="http://www.dpi.co.id/neoweb/daftar-lowongan.php"><div>Daftar Lowongan</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/kirim-lamaran-2.php"><div>Kirim Lamaran</div></a></li>
+								</ul>
+							</li>
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#" class="sf-with-ul"><div>Info</div></a>
+								<ul style="display: none;">
+									<li><a href="http://www.dpi.co.id/neoweb/client-list.php"><div>Clients List</div></a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/activity.php"><div>Activities</div></a></li>
+									<!--<li><a href="http://www.dpi.co.id/neoweb/awards.php"><div>News</div></a></li>-->
+									<li><a href="http://www.dpi.co.id/neoweb/news.php"><div>News</div></a></li>
+									<!-- <li><a href="#"><div>Others</div></a></li> -->
+								</ul>
+							</li> 
+							<li class="sub-menu"><a href="http://www.dpi.co.id/neoweb/client-list.php#" class="sf-with-ul"><div>Contact Us</div></a>
+								<ul style="display: none;">
+									<li><a href="http://www.dpi.co.id/neoweb/contact-office.php"><div>Office</div></a></li>
+								</ul>
+							</li>
+						
+						</ul>
+
+						<!-- Top Search
+						============================================= -->
+						<!-- <div id="top-search">
+							<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+							<form action="search.php" method="get">
+								<input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
+							</form>
+						</div> -->
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		<!-- Page Title
+		============================================= -->
+		<section id="page-title">
+
+			<div class="container clearfix ">
+				<h1 style="font-weight:900;font-size:30px;" class="f-left-2">CLIENTS LIST</h1>
+				
+			</div>
+
+		</section><!-- #page-title end -->
+
+		<!-- Page Sub Menu
+		============================================= -->
+		<div id="page-menu" class="">
+
+			<div id="page-menu-wrap">
+
+				<div class="container clearfix">
+					<!-- <div class="menu-title">CLIENTS <span>LIST</span></div> -->
+					<ol class="breadcrumb">
+						<li><a href="http://www.dpi.co.id/neoweb/">Home</a></li>
+						<li><a href="http://www.dpi.co.id/neoweb/client-list.php#">News</a></li>
+						<li class="active">Clients List</li>
+					</ol>
+
+				</div>
+
+			</div>
+
+		</div><!-- #page-menu end -->
+		<!-- Content
+		============================================= -->
+		
+		<section id="content" style="margin-top: 50px; margin-bottom: 0px;">
+
+			<div class="content-wrap">
+
+				<div class="container clearfix" style="margin-bottom:80px;">
+
+					<div class="fancy-title text-center" style="margin-bottom:60px;">
+						<h3>CLIENTS <span>LIST</span></h3>
+						
+					</div>
+					
+					<!-- Portfolio Items
+					============================================= -->
+					<div id="portfolio" class="portfolio-6 clearfix" style="position: relative; height: 725px;">
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight1.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight1.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 191px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight30.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight30.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 382px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight31.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight31.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 573px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight2.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight2.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 764px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight5.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight5.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 955px; top: 0px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight3.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight3.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight14.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight14.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 191px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight15.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight15.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 382px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight16.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight16.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 573px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight17.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight17.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 764px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight18.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight18.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 955px; top: 145px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight19.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight19.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight20.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight20.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 191px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight21.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight21.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 382px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight22.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight22.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 573px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight23.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight23.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 764px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight24.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight24.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 955px; top: 290px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight25.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight25.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight27.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight27.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 191px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight26.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight26.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 382px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight28.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight28.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 573px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight29.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight29.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 764px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight32.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight32.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 955px; top: 435px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight34.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight34.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+												<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 580px;">
+							<div class="portfolio-image">
+								<a>
+									<img src="./bca_files/highlight33.png" style="border: 1px solid; visibility: visible; opacity: 1; display: block;" alt="">
+								</a>
+								<div class="portfolio-overlay">
+									
+									<a href="./bca_files/highlight33.png" style="margin-left:1px;" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									
+								</div>
+							</div>
+							
+						</article>
+
+						
+					</div><!-- #portfolio end -->
+
+				</div>
+
+			</div>
+
+		</section><!-- #content end -->
+		<!-- <section id="content" style="margin-top:50px;"> -->
+
+			<!-- <div class="content-wrap"> -->
+
+				<!-- <div class="container clearfix" style="margin-bottom:80px;"> -->
+					<!-- <div class="fancy-title text-center" style="margin-bottom:60px;"> -->
+						<!-- <h3>CLIENTS <span>LIST</span></h3> -->
+						
+					<!-- </div> -->
+					
+					<!-- <ul class="clients-grid grid-6 nobottommargin clearfix"> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight1.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight30.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight31.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight2.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight5.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight3.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight14.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight15.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight16.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight17.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight18.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight19.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight20.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight21.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight22.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight23.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight24.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight25.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight27.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight26.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight28.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight29.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight32.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight34.png" alt="Clients"></a></li> -->
+						<!--  -->
+						<!-- <li><a href="#"><img src="http://www.dpi.co.id/neoweb/images/client/highlight33.png" alt="Clients"></a></li> -->
+						<!--  -->
+					<!-- </ul> -->
+					<!-- <div class="divider"><i class="icon-circle"></i></div> -->
+				<!-- </div> -->
+
+			<!-- </div> -->
+
+		<!-- </section> -->
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+
+			<div class="container">
+
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="footer-widgets-wrap clearfix">
+
+					<div class="col-md-12">
+
+						<div class="col-md-6">
+
+							<div class="widget clearfix">
+
+								<img style="margin-top:-30px;" src="./bca_files/logo-white.png" alt="" class="footer-logo">
+								<p align="justify" style="font-size:15px;">
+								PT. Dana Purna Investama (DPI) adalah salah satu anak perusahaan Dana
+                                Pensiun BCA yang memberikan jasa layanan di bidang Pengelolaan Fasilitas
+                                Gedung dan jasa Outsourcing.<br>Meskipun merupakan perusahaan yang relatif
+                                baru, DPI telah mendapat kepercayaan dari banyak Pelanggan dan siap menjadi
+                                salah satu perusahaan andalan dan mengambil peran aktif dalam industri
+                                pengelolaan gedung di Indonesia.
+								<!-- PT. Dana Purna Investama (DPI) adalah salah satu anak perusahaan Dana Pensiun BCA yang didirikan pada tanggal 24 April 2007 dan focus memberikan jasa dibidang Pengelolaan Fasilitas Gedung dan jasa Outsourcing.  <br><br>Meskipun merupakan perusahaan yang relatif baru, DPI telah mendapat kepercayaan dari banyak Pelanggan dan siap menjadi salah satu perusahaan andalan dan mengambil peran aktif dalam industri pengelolaan gedung di Indonesia.-->
+								</p> 
+
+								<!-- <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
+
+								<div style="background: url('http://www.dpi.co.id/neoweb/templates/dpi/images/world-map.png') no-repeat center center; background-size: 100%;">
+									<address>
+										<strong>Headquarters:</strong><br>
+										795 Folsom Ave, Suite 600<br>
+										San Francisco, CA 94107<br>
+									</address>
+									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
+									<abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 4752 1433<br>
+									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+								</div> -->
+
+							</div>
+
+						</div>
+
+						<div class="col-md-3">
+
+							<div class="widget widget_links clearfix">
+
+								<h4>Main Menu</h4>
+
+								<ul>
+									<li><a href="http://www.dpi.co.id/neoweb/">Home</a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/our-history.php">About Us</a></li>
+									<!-- <li><a href="#">Services</a></li> -->
+									<li><a href="http://www.dpi.co.id/neoweb/board-of-commisioner.php">Organization</a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/daftar-lowongan.php">Career</a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/activity.php">Info</a></li>
+									<li><a href="http://www.dpi.co.id/neoweb/contact-office.php">Contact Us</a></li>
+								</ul>
+								<br>
+							</div>
+
+						</div>
+						<div class="col-md-3">
+
+							<div class="widget widget_links">
+
+								<h4>Contact Us</h4>
+
+								<div style="background: url(&#39;http://www.dpi.co.id/neoweb/templates/dpi/images/world-map.png&#39;) no-repeat center center; background-size: 100%;">
+									<address>
+										<strong>ADRESS:</strong><br>
+										Jl. Tanah Abang 1 / 27A,<br>
+Jakarta Pusat 10160,<br>
+INDONESIA
+									</address>
+									<p title="Phone Number"><strong>PHONE:  (021) 3811149</strong><br>
+									<strong>FAX:  (021) 3811334</strong><br>
+									<strong>EMAIL:  contact@dpi.co.id</strong>
+									</p>
+									<!--
+									<a href="#" class="social-icon si-light si-facebook" title="Facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-light si-gplus" title="Google Plus">
+										<i class="icon-gplus"></i>
+										<i class="icon-gplus"></i>
+									</a>
+									<a href="#" class="social-icon si-light si-linkedin" title="Linked In">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
+									</a>
+									-->
+								</div> 
+
+							</div>
+
+						</div>
+
+						<!-- <div class="col_one_third col_last">
+
+							<div class="widget clearfix">
+								<h4>Recent Posts</h4>
+
+								<div id="post-list-footer">
+									<div class="spost clearfix">
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>10th July 2014</li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="spost clearfix">
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>10th July 2014</li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="spost clearfix">
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>10th July 2014</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div> -->
+
+					</div>
+
+					<!-- <div class="col_one_third col_last">
+
+						<div class="widget clearfix" style="margin-bottom: -20px;">
+
+							<div class="row">
+
+								<div class="col-md-6 bottommargin-sm">
+									<div class="counter counter-small"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
+									<h5 class="nobottommargin">Total Downloads</h5>
+								</div>
+
+								<div class="col-md-6 bottommargin-sm">
+									<div class="counter counter-small"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
+									<h5 class="nobottommargin">Clients</h5>
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="widget subscribe-widget clearfix">
+							<h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
+							<div id="widget-subscribe-form-result" data-notify-type="success" data-notify-msg=""></div>
+							<form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin">
+								<div class="input-group divcenter">
+									<span class="input-group-addon"><i class="icon-email2"></i></span>
+									<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
+									<span class="input-group-btn">
+										<button class="btn btn-success" type="submit">Subscribe</button>
+									</span>
+								</div>
+							</form>
+							<script type="text/javascript">
+								$("#widget-subscribe-form").validate({
+									submitHandler: function(form) {
+										$(form).find('.input-group-addon').find('.icon-email2').removeClass('icon-email2').addClass('icon-line-loader icon-spin');
+										$(form).ajaxSubmit({
+											target: '#widget-subscribe-form-result',
+											success: function() {
+												$(form).find('.input-group-addon').find('.icon-line-loader').removeClass('icon-line-loader icon-spin').addClass('icon-email2');
+												$('#widget-subscribe-form').find('.form-control').val('');
+												$('#widget-subscribe-form-result').attr('data-notify-msg', $('#widget-subscribe-form-result').html()).html('');
+												SEMICOLON.widget.notifications($('#widget-subscribe-form-result'));
+											}
+										});
+									}
+								});
+							</script>
+						</div>
+
+						<div class="widget clearfix" style="margin-bottom: -20px;">
+
+							<div class="row">
+
+								<div class="col-md-6 clearfix bottommargin-sm">
+									<a href="#" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#"><small style="display: block; margin-top: 3px;"><strong>Like us</strong><br>on Facebook</small></a>
+								</div>
+								<div class="col-md-6 clearfix">
+									<a href="#" class="social-icon si-dark si-colored si-rss nobottommargin" style="margin-right: 10px;">
+										<i class="icon-rss"></i>
+										<i class="icon-rss"></i>
+									</a>
+									<a href="#"><small style="display: block; margin-top: 3px;"><strong>Subscribe</strong><br>to RSS Feeds</small></a>
+								</div>
+
+							</div>
+
+						</div>
+
+					</div> -->
+
+				</div><!-- .footer-widgets-wrap end -->
+
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix">
+
+					<div>
+						<font color="#EEE">Copyrights © 2018. <a href="http://www.faberhost.com/">Web Design &amp; Development</a> By </font><a href="http://www.faberhost.com/"><font color="#EEE">Faberhost. </font></a>
+						
+					</div>
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script type="text/javascript" src="./bca_files/functions.js.download"></script>
+
+	<script type="text/javascript">
+
+						jQuery(window).load(function(){
+
+							var $container = $('#portfolio');
+
+							$container.isotope({ transitionDuration: '0.65s' });
+
+							$('#portfolio-filter a').click(function(){
+								$('#portfolio-filter li').removeClass('activeFilter');
+								$(this).parent('li').addClass('activeFilter');
+								var selector = $(this).attr('data-filter');
+								$container.isotope({ filter: selector });
+								return false;
+							});
+
+							$('#portfolio-shuffle').click(function(){
+								$container.isotope('updateSortData').isotope({
+									sortBy: 'random'
+								});
+							});
+
+							$(window).resize(function() {
+								$container.isotope('layout');
+							});
+
+						});
+
+					</script><!-- Portfolio Script End -->
+					
+
+</body></html>

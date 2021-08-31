@@ -1,0 +1,81 @@
+<?php
+session_start();
+include_once "inc.connection.php";
+$type	= $_REQUEST['type'];
+switch ($type) 
+	{
+		case 1:
+			$txtID			=	$_REQUEST['txtID'];
+            $txtIDPer       =	$_REQUEST['txtIDPer'];
+            $txtIDPek       =   $_REQUEST['txtIDPek'];
+			$txtNama 		=	$_REQUEST['txtNama'];
+			$txtNoTelp		=	$_REQUEST['txtNoTelp'];
+			$cmbJenKel		=	$_REQUEST['cmbJenKel'];
+            $txtAlmt		=	$_REQUEST['txtAlmt'];
+            $txtLahir       =   $_REQUEST['txtLahir'];
+            $cmbStatus      =   $_REQUEST['cmbStatus'];
+            $txtKontrak     =   $_REQUEST['txtKontrak'];
+            
+			
+				$pesanError = array();
+				if (empty($txtID)) {
+					$pesanError[] = "Maaf ID";
+					
+				}
+				if (empty($txtIDPer)) {
+					$pesanError[] = "Maaf IDPer";
+					
+                }
+                if (empty($txtIDPek)) {
+					$pesanError[] = "Maaf IDPek";
+					
+				}
+				if (empty($txtNama)) {
+					$pesanError[] = "Maaf Nama";
+					
+                }
+                if (empty($txtNoTelp)) {
+					$pesanError[] = "Maaf notelp";
+					
+                }
+                if (empty($cmbJenKel)) {
+					$pesanError[] = "Maaf jenkel";
+					
+                }
+                if (empty($txtLahir)) {
+					$pesanError[] = "Maaf Lahir";
+					
+				}
+                if (empty($txtAlmt)) {
+					$pesanError[] = "Maaf alamat";
+					
+                }
+                if (empty($cmbStatus)) {
+					$pesanError[] = "Maaf status";
+					
+                }
+                if (empty($txtKontrak)) {
+					$pesanError[] = "Maaf Kontrak";
+					
+				}
+				if (count($pesanError)>= 1) {
+					$pesan="";
+					foreach ($pesanError as $pesan_tampil) {
+						$pesan .="$pesan_tampil <br>";
+					}
+					$data['msg'][0] = "error";
+					$data['msg'][1] = $pesan;
+				}else{
+					$mySql = "INSERT INTO tb_pekerja (id_pekerja, id_perusahaan, id_nampek, nama_pekerja, alamat_pekerja, kontak, tgl_lahir, jenis_kelamin, status_pek, kontrak)
+								VALUES ('$txtID', '$txtIDPer', '$txtIDPek', '$txtNama', '$txtAlmt', '$txtNoTelp', '$txtLahir', '$cmbJenKel', '$cmbStatus', '$txtKontrak')";
+					$data['msg'][0] = "ok";
+					$data['msg'][1] = "Data Sudah Ditambahkan...";
+				}
+				$myQry = mysqli_query($koneksidb, $mySql);
+	
+	    echo json_encode($data);
+
+	break;
+    default:
+    break;
+}
